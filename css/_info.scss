@@ -1,0 +1,32 @@
+/////////info section////////
+
+
+.info{
+
+    section{
+        width:30%;
+        padding: 20px;
+        
+        h2{
+            font-weight: 300;
+            margin-bottom: 1.4rem;
+            line-height: 2rem;
+            color: $primay-color;
+        }
+
+        p{
+            font-weight: 300;
+            margin-bottom: 1.4rem;
+            line-height: 2rem;
+            color: gray;
+        }
+    }
+
+    hr{
+        display: flex;
+        width: 0.4px;
+        height: auto;
+        border: none;
+        background-color: #dfdfdf;
+    }    
+}
